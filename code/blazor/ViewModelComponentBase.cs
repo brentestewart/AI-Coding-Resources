@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Components;
 // Change this to your namespace
 namespace <YourProject.Web.Pages>
 
-public class ViewModelComponentBase<TViewModel> : ComponentBase where TViewModel : ViewModelBase
+internal class ViewModelComponentBase<TViewModel> : ComponentBase where TViewModel : ViewModelBase
 {
     public ViewModelComponentBase()
     {
