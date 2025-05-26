@@ -5,7 +5,7 @@ This guide outlines best practices for working with Blazor, with a focus on main
 This document describes best practices and implementation strategies for creating Blazor applications. For consistency and maintainability, all projects should:
 
 - Follow the design and structure outlined in this guide.    
-- Use the [BlazorBaseClasses](https://github.com/brentestewart/BlazorBaseClasses) repository for shared base viewmodels and components.
+- Use the [AI-Coding-Resources]([AI-Coding-Resources](https://github.com/brentestewart/AI-Coding-Resources)) repository for shared base viewmodels and components.
 - Apply the coding and architecture practices described here.
 
 ## 📁 Folder Structure
@@ -53,9 +53,9 @@ A feature-based folder structure is recommended for scalability and clarity. Org
 - Avoid overly deep hierarchies—keep nesting shallow and purposeful.
 - Keep test files in parallel folder trees, such as `/Tests/Features/Orders/OrderListTests.cs`.
 ## ✅ Tasks
-*  [ ] Create the Blazor folder structure
-*  [ ] Add the ViewModelComponentBase.cs file
-*  [ ] Add the ViewModelBase.cs file
+*  [ ] Create the Blazor folder structure in the blazor app
+*  [ ] Add the ViewModelComponentBase.cs file to the blazor app https://raw.githubusercontent.com/brentestewart/AI-Coding-Resources/refs/heads/main/code/blazor/ViewModelComponentBase
+*  [ ] Add the ViewModelBase.cs file to the blazor app https://raw.githubusercontent.com/brentestewart/AI-Coding-Resources/refs/heads/main/code/blazor/ViewModelBase
 
 ## 🧱 Component Design
 

@@ -16,7 +16,7 @@ When starting a new project, the AI assistant will extract all `## ✅ Tasks` se
 *  [ ] Create the Infrastructure .NET Class Library project
 *  [ ] Create the Domain .NET Class Library project
 *  [ ] Create the Application .NET Class Library project
-*  [ ] Create the Web Blazor Web App using the settings listed in the AppSettings.md file use the BlazorBestPractices.md file for the file structure
+*  [ ] Create the Web Blazor Web App using the settings listed in the [[app-description.md]] file use the BlazorBestPractices.md file for the file structure
 
 ---
 

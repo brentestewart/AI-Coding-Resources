@@ -1,5 +1,11 @@
 These conventions are based on [Microsoft's official C# coding style](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) with added project-specific preferences to promote clarity, testability, and AI compatibility.
 
+# Tasks
+
+-  [ ] Verify you have read and understood the contents of the `coding-standards-dot-net.md` document.
+
+---
+
 ## ✨ Naming Conventions
 
 |Element|Convention|Example|
