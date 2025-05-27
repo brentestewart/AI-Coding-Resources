@@ -37,16 +37,19 @@ Each document includes:
 
 ### 💻 Sample Code
 
-Future samples may include:
+Code that can be used to bootstrap your application:
 
-- Dependency injection setup
+- Base ViewModels
     
-- Error boundaries
+- Style defaults
     
-- API client wrappers
+- Custom Exceptions
     
-- Testing scaffolds
+- Templates
     
+
+### ⚙️ Sample Configuration
+Documents on different tooling configurations
 
 ---
 
@@ -56,16 +59,11 @@ Future samples may include:
     
 2. Use the architecture document that fits your project size (`enterprise` or `prototype`).
     
-3. Incorporate the base classes from `BlazorBaseClasses`.
-    
-4. When using AI tools:
-    
-    - Paste relevant documents into the context
-        
-    - Ask the AI to extract tasks or follow best practices
-        
+3. Using an AI tool to:
+    - Read and understand your instructions.md file.
+    - Have it create your tasks.md file.
+    - Start working the tasks with the AI
     - Let the AI track implementation progress based on the `✅ Tasks` sections
-        
 
 ---
 
