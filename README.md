@@ -12,18 +12,21 @@ This repository is intended as a reusable knowledge base to accelerate project s
 
 Core guides designed to be imported into each project:
 
-- `coding-standards.md` – C# and .NET code conventions
-    
-- `blazor-best-practices.md` – UI and component design tips for Blazor
-    
-- `architecture-enterprise.md` – Enterprise-level layered architecture
-    
-- `architecture-prototype.md` – Lightweight structure for rapid prototyping
-    
-- `folder-structure.md` – Recommended folder layout for maintainable projects
-    
-- _(more coming soon: testing, ai-prompting, state management, etc.)_
-    
+- `app-description.md` – Example project description and purpose
+- `app-initialization-prompt.md` – Sample AI prompt for project setup
+- `architecture-blazor-enterprise.md` – Enterprise-grade Blazor architecture
+- `architecture-blazor-prototype.md` – Lightweight Blazor prototyping structure
+- `auth-supabase.md` – Supabase authentication integration guide
+- `blazor-best-practices.md` – Blazor UI and component best practices
+- `coding-standards-dot-net.md` – C# and .NET code conventions
+- `instructions.md` – AI assistant setup and behavior instructions
+- `mcp-servers.md` – Model Context Protocol (MCP) server integration
+- `source-control.md` – Source control setup and best practices
+- `storage-supabase.md` – Supabase storage integration for .NET
+- `supabase.md` – Supabase project setup checklist
+- `testing-blazor.md` – Testing Blazor components with bUnit
+- `testing-dot-net.md` – Testing standards for .NET class libraries
+
 
 Each document includes:
 
