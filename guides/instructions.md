@@ -16,8 +16,9 @@ These documents contain the standards, best practices, and architecture details 
 - [source-control.md](source-control.md)
 - [architecture-blazor-enterprise.md](architecture-blazor-enterprise.md)
 - [blazor-best-practices.md](blazor-best-practices.md)
+- [supabse.md](supabase.md)
 - [storage-supabase.md](storage-supabase.md)
-- [sample-app-description.md](app-description.md)
+- [app-description.md](app-description.md)
 - [mcp-servers.md](mcp-servers.md)
 
 ---
@@ -30,8 +31,9 @@ On first exposure to this repository, the AI should perform the following steps:
 
 2. **Aggregate Tasks:**  
    - Collect all `## Tasks` sections from the guide documents listed above.
+   - Organize all the tasks to be listed grouped in the order that the tasks must be ran in.
    - Combine them into a single `tasks.md` file.
-   - Organize the tasks into logical sections.
+   - Make sure the logical groups of tasks are numbered for easier reference.
    - Write that file to the same directory as the instructions.
    - Show the `tasks.md` file for user review.
 
@@ -45,3 +47,4 @@ On first exposure to this repository, the AI should perform the following steps:
 
 - All AI-driven actions must come from the approved `tasks.md` file.
 - Do not infer or execute steps that are not explicitly defined or approved by the user.
+- When a task is completed, mark it as completed by placing an `x` between the `[ ]` brackets.

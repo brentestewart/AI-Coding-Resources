@@ -3,6 +3,7 @@
 This document defines which MCP (Model Context Protocol) servers the AI should be able to interact with in order to support development activities. These servers provide additional context, data, or functionality that the AI can use to enhance the app generation experience.
 
 ## Tasks
+These servers are a dependency for other tasks, so they should appear near the top of any aggregate task lists.
 
 -  [ ] Verify access to the **GitHub** MCP Server
     - **Command:** `run get_me - github (MCP Server)`
